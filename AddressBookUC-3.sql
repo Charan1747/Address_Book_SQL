@@ -18,3 +18,7 @@ create table Address_Book
 );
 
 select *from Address_Book;
+
+Insert into Address_Book values
+('Charan','Ketha','Mandapeta','Rajamundry','AP','533308',9618881747,'charan@gmail.com'),
+('Mahesh','Albert','Yanam','Kakinada','AP','533241',9391888388,'mahesh@gmail.com');
